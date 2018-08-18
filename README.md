@@ -1,5 +1,5 @@
 # nodejs-generate-excel
-## Create and donwload excel with nodejs (expressjs)
+## Create and download excel with nodejs (expressjs)
 
 ```javascript
 
